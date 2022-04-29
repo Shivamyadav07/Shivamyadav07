@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamyadav07&label=Profile%20views&color=0e75b6&style=flat" alt="shivamyadav07" /> </p>
 
 - 🔭 I’m currently working on [portfolio-website](https://github.com/Shivamyadav07/Portfolio-Website)
