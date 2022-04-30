@@ -1,4 +1,4 @@
-<img width="1200px" height="450px" src="https://document-export.canva.com/OyuvQ/DAE_XUOyuvQ/36/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220430%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220430T010437Z&X-Amz-Expires=49896&X-Amz-Signature=e8beb125364722edafc6cc661792cf114097da6c6d0b9cf1bb73d3186ca4755e&X-Amz-SignedHeaders=host&response-expires=Sat%2C%2030%20Apr%202022%2014%3A56%3A13%20GMT" >
+<img width="1500px" height="450px" src="https://document-export.canva.com/OyuvQ/DAE_XUOyuvQ/36/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220430%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220430T010437Z&X-Amz-Expires=49896&X-Amz-Signature=e8beb125364722edafc6cc661792cf114097da6c6d0b9cf1bb73d3186ca4755e&X-Amz-SignedHeaders=host&response-expires=Sat%2C%2030%20Apr%202022%2014%3A56%3A13%20GMT" >
 <h2 align="center">Hi 👋, I'm Shivam Yadav 🌐 A passionate full stack web developer</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
