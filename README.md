@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/60843507/111036837-4af44900-8447-11eb-9cbd-776fd4737549.gif" >
+<img  src="https://document-export.canva.com/OyuvQ/DAE_XUOyuvQ/36/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20220430%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220430T010437Z&X-Amz-Expires=49896&X-Amz-Signature=e8beb125364722edafc6cc661792cf114097da6c6d0b9cf1bb73d3186ca4755e&X-Amz-SignedHeaders=host&response-expires=Sat%2C%2030%20Apr%202022%2014%3A56%3A13%20GMT" >
 <h1 align="center">Hi 👋, I'm Shivam Yadav</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
