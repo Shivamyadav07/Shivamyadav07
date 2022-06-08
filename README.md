@@ -1,4 +1,4 @@
-<img width="1500px" height="350px" src="https://i.ibb.co/8zy2k3H/GITHUB-BANNER.gif" >
+<img width="100%" height="350px" src="https://i.ibb.co/8zy2k3H/GITHUB-BANNER.gif" >
 <h2 align="center">Hi 👋, I'm Shivam Yadav 🌐 A passionate full stack web developer</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
