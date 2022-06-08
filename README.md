@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamyadav07&show_icons=true&locale=en" alt="shivamyadav07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamyadav07&" alt="shivamyadav07" /></p>
+![snake gif](https://github.com/Shivamyadav07/Shivamyadav07/blob/output/github-contribution-grid-snake.gif)
