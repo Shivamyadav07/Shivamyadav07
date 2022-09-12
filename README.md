@@ -3,7 +3,7 @@
 <p align="center">
 I'm aspiring Full-Stack Web Developer with a specialization in MERN stack passionate learner and always willing to learn and work across technologies and domains 💡. I love to explore new technologies and try to use them to solve real-life problems ✨ I'm deep into Web 🕸️ Development.
 </p> 
-<img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="280"/>
+<img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="250"/>
 
 #### Talking about my personal stuff:
 
@@ -31,7 +31,7 @@ I'm aspiring Full-Stack Web Developer with a specialization in MERN stack passio
 <br>
 
 <br>
-<h2 align="center">Technology Stack <img style="height:250px;" src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img  src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 
 
