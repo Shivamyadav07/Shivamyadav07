@@ -31,7 +31,7 @@ I'm aspiring Full-Stack Web Developer with a specialization in MERN stack passio
 <br>
 
 <br>
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+<h2 align="center">Technology Stack <img style="height:250px;" src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 
 
