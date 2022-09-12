@@ -1,7 +1,7 @@
 <!--  portfolio link/  -->
-### Hey there, I'm  Vaibhav 
+### Hey there, I'm  Shivam 
 <p align="center">
-  I'm a Mechanical Engineer by education🎓 from RTMNU university Nagpur 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨ I'm deep into Web 🕸️ Development.
+I'm aspiring Full-Stack Web Developer with a specialization in MERN stack passionate learner and always willing to learn and work across technologies and domains 💡. I love to explore new technologies and try to use them to solve real-life problems ✨ I'm deep into Web 🕸️ Development.
 </p> 
 <img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="280"/>
 
@@ -10,32 +10,22 @@
 - 🙋‍♂️ Full Stack Web Developer.
 - 👉 Interested in building amazing frontend websites.
 - 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
-- 📄 Portfolio - "https://vaibhav-darvekar-portfolio-devv.netlify.app/"
+- 📄 Portfolio - "https://shivam-portfolio-wesite.netlify.app/"
 
 <br>
  <div align="center">
 <p align="center">Let's connect!</p>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://twitter.com/vaibhav61104399/">
+<a href="https://twitter.com/shivamy75967491">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/vaibhavdarwekar/?hl=en">
+<a href="https://www.instagram.com/shivamyadav007/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/vaibhav-darvekar-9ba9a1217/">
+<a href="https://www.linkedin.com/in/shivamyadav007/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-
-<a href="https://www.facebook.com/vaibhav.darwekar.50">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-
-
 </div>
 
 <br>
