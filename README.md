@@ -48,6 +48,6 @@ I'm aspiring Full-Stack Web Developer with a specialization in MERN stack passio
 </p>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamyadav07&show_icons=true&locale=en" alt="shivamyadav07" /></p>
+<p align="center" >&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=shivamyadav07&show_icons=true&locale=en" alt="shivamyadav07" /></p>
 
 ![snake gif](https://github.com/Shivamyadav07/Shivamyadav07/blob/output/github-contribution-grid-snake.gif)
