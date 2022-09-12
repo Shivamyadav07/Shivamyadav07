@@ -1,6 +1,6 @@
 <!--  portfolio link/  -->
 ### Hey there, I'm  Shivam 
-<p align="center">
+<p align="left">
 I am aspiring Full-Stack Web Developer with a specialization in MERN stack and a passionate learner from India. And always willing to learn and work across technologies and domains. I love to explore new technologies and try to use them to solve real life problems. ✨I'm deep into Web 🕸️ Development.✨
 </p> 
 <img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="258"/>
