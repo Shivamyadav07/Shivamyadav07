@@ -10,7 +10,7 @@ I am aspiring Full-Stack Web Developer with a specialization in MERN stack and a
 - 🙋‍♂️ Full Stack Web Developer.
 - 👉 Interested in building amazing frontend websites.
 - 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
-- 📄 Portfolio - "https://shivam-portfolio-wesite.netlify.app/"
+- 📄 Portfolio - "https://shivamyadav07.github.io/"
 
 <br>
 
